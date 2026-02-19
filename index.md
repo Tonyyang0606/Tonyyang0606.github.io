@@ -3,9 +3,8 @@ layout: home
 title: Welcome
 ---
 
-# Ruogu
-
-PhD Student in Computer Science  
+# Ruogu Yang
+I am a senior stusent at Southern University of Science and Technology. And I am an incoming CS PhD student Northeastern University, advised by Professor ziming zhao.
 
 Welcome to my academic homepage.
 
