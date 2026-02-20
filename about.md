@@ -18,5 +18,5 @@ I enjoy listening to classical music while conducting research, and I also love 
 **Powerlifting**
 I have been training for about 2.5 years. My personal bests are: Squat 160 kg, Bench Press 110 kg, and Deadlift 195 kg. I had to pause my training since Fall 2025 due to the application season, but I am now gradually getting back into it.
 **Surfing**
-
+Surfing is a sport I have always wanted to spend more time training. Unfortunately, during my undergraduate years, it was difficult to access the ocean, so I’ve surfed fewer than ten times so far. I hope to find more opportunities to surf in Boston in the future.
 **Video games**
