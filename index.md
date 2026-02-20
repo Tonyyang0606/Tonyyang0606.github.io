@@ -7,8 +7,7 @@ title: Ruogu Yang(杨若谷)
 <div>
 
 
-I am currently an incoming PhD student at Khoury College of Computer Sciences, Northeastern University, advised by Prof. <a href="https://zzm7000.github.io/">Ziming Zhao</a>, starting Fall 2026. I am a senior student at Southern University of Science and Technology, advised by Prof. <a href="https://yinqian.org/">Yinqian Zhang</a>.
-
+I am currently an incoming PhD student at Khoury College of Computer Sciences, Northeastern University, advised by Prof. <a href="https://zzm7000.github.io/">Ziming Zhao</a>, starting Fall 2026. I am a senior student at Southern University of Science and Technology, advised by Prof. <a href="https://yinqian.org/">Yinqian Zhang</a>.<br>
 I was a research intern at UC Davis, advised by Prof. <a href="https://www.cs.ucdavis.edu/~hchen/#about">Hao Chen</a>.
 </div>
 
