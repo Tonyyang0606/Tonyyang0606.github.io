@@ -8,9 +8,8 @@ title: Ruogu Yang(杨若谷)
 
 
 I am currently an incoming PhD student at Khoury College of Computer Sciences, Northeastern University, advised by Prof. <a href="https://zzm7000.github.io/">Ziming Zhao</a>, starting from 2026 Fall. I am a senior student at Southern University of Science and Technology, advised by Prof. <a href="https://yinqian.org/">Yinqian Zhang</a>.<br>
-I was a research intern at UC Davis, advised by Prof. <a href="https://www.cs.ucdavis.edu/~hchen/#about">Hao Chen</a>.
-
-Email: `ruoguyang26@gmail.com`
+I was a research intern at UC Davis, advised by Prof. <a href="https://www.cs.ucdavis.edu/~hchen/#about">Hao Chen</a><br>.
+Email: ruoguyang26@gmail.com
 </div>
 
 <div>
