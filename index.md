@@ -1,12 +1,22 @@
 ---
 layout: home
-title: Welcome
+title: Ruogu Yang(杨若谷)
 ---
+<div style="display:flex; align-items:center; gap:20px;">
 
-# Ruogu Yang(杨若谷)
-I am a senior stusent at Southern University of Science and Technology, advised by Professor [Yinqian Zhang](https://yinqian.org/). And I am an incoming CS PhD student Northeastern University, advised by Professor [Ziming Zhao](https://zzm7000.github.io/).
-I was a research intern at UCDavis, advised by Professor [Hao chen](https://www.cs.ucdavis.edu/~hchen/#about)
-Welcome to my academic homepage.
+<div>
+
+
+I am currently an incoming PhD student at Khoury College of Computer Sciences, Northeastern University, advised by Prof. <a href="https://zzm7000.github.io/">Ziming Zhao</a>, starting Fall 2026. I am a senior student at Southern University of Science and Technology, advised by Prof. <a href="https://yinqian.org/">Yinqian Zhang</a>.
+
+I was a research intern at UC Davis, advised by Prof. <a href="https://www.cs.ucdavis.edu/~hchen/#about">Hao Chen</a>.
+</div>
+
+<div>
+<img src="assets/images/Ruogu_Yang.jpg" alt="Ruogu Yang" style="width:350px;">
+</div>
+
+</div>
 
 ## Research Interests
 
@@ -15,11 +25,11 @@ Welcome to my academic homepage.
 - Program Analysis
 
 ## News
-**2026.8** I will join NEU(Boston) as a PhD student!
+**2026.8**  I will join NEU(Boston) as a PhD student!
 
-**2026.2** I am excited to have received an offer to join the PhD program in Computer Science at Khoury College of Computer Sciences, Northeastern University, starting Fall 2026. See you at Boston!
+**2026.2**  I am excited to have received an offer to join the PhD program in Computer Science at Khoury College of Computer Sciences, Northeastern University, starting Fall 2026. See you at Boston!
 
-**2026.1** I submit my first paper as the first author to ISSTA！
+**2026.1**  I submit my first paper as the first author to ISSTA！
 
-**2025.6** Excited to start my journey as a research intern at the Security Lab at UC Davis!
+**2025.6**  Excited to start my journey as a research intern at the Security Lab at UC Davis!
 
