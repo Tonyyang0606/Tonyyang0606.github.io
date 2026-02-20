@@ -12,7 +12,7 @@ I was a research intern at UC Davis, advised by Prof. <a href="https://www.cs.uc
 </div>
 
 <div>
-<img src="assets/images/Ruogu_Yang.JPG" alt="Ruogu Yang" style="width:350px;">
+<img src="assets/images/Ruogu_Yang.JPG" alt="Ruogu Yang" style="width:400px;">
 </div>
 
 </div>
